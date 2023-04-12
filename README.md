@@ -53,6 +53,8 @@
 
 ## <a name="O"> </a>O
 
+- **[Online Wolof Data](https://github.com/WolofProcessing/online_wolof_data)** - Curate online wolof text resources that can be used to build models. by **[@WolofProcessing](https://github.com/WolofProcessing)**
+
 ## <a name="P"> </a>P
 
 - **[Panorama Generator](https://github.com/TiDev00/Panorama)** - A Python tool in order to generate a panorama from images using Harris Corner Detector and RANSAC. by **[@TiDev00](https://github.com/TiDev00)**
